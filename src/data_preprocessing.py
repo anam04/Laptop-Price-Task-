@@ -1,6 +1,6 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+import numpy as npgi
+import matplotlib.pyplot as plt #math operations
 
 # Load data
 df = pd.read_csv("laptop_price_task/data/Laptop Price.csv")
