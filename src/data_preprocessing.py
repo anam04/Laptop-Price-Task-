@@ -94,4 +94,4 @@ df["os"] = df["OpSys"].apply(cat_os)
 
 # ---------------- Final Check ----------------
 print(df.head(10))
-print(df.select_dtypes(include=[np.number]).corr()["Price"].sort_values(ascending=False))
+print(df.select_dtypes(include=[np.number]).corr()["Price"].sort_values(ascending=False)) 
