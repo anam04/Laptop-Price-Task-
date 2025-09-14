@@ -134,4 +134,8 @@ df["Price_log"] = np.log1p(df["Price"])
 df.to_csv("data/train_data.csv", index=False)
 print("Final shape:", df.shape)
 print("Columns:\n", df.columns)
+<<<<<<< HEAD
 print("Cleaned dataset saved as data/train_data.csv")
+=======
+print("Cleaned dataset saved as data/train_data.csv")
+>>>>>>> 8dc88adde8711fd9a3672481aec1d578089a634e
