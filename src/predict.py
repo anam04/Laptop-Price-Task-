@@ -58,6 +58,7 @@ if __name__ == "__main__":
     parser.add_argument("--data_path", default="data/train_data.csv")
     parser.add_argument("--metrics_output_path", default="results/train_metrics.txt")
     parser.add_argument("--predictions_output_path", default="results/train_predictions.csv")
-
     args = parser.parse_args() 
     main(args) 
+
+    
