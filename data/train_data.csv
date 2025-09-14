@@ -686,7 +686,7 @@ Ram,Weight,Price,TouchScreen,IPS,ppi,HDD,SSD,Hybrid,Flash_Storage,TypeName_Gamin
 8,1.98,51202.08,0,0,141.21199808219862,1000,0,0,0,False,False,True,False,False,False,False,True,False,True,False,False,True,False
 8,1.16,90522.72,1,0,276.053530085501,0,256,0,0,False,False,True,False,False,False,False,True,True,False,False,False,False,True
 8,1.91,23757.552,0,0,100.45466986113651,0,128,0,0,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-4,2.2,29073.29759999999,0,0,100.45466986113651,1000,0,0,0,False,False,True,False,False,False,False,True,False,False,True,False,False,False
+4,2.2,29073.297599999994,0,0,100.45466986113651,1000,0,0,0,False,False,True,False,False,False,False,True,False,False,True,False,False,False
 4,1.16,15930.72,1,1,189.90579052433606,0,32,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,True
 12,2.19,69210.72,1,1,141.21199808219862,0,512,0,0,False,False,False,False,False,False,False,True,True,False,False,False,True,False
 8,1.29,106506.72,1,1,331.2642361026012,0,512,0,0,False,False,False,False,False,False,False,True,True,False,False,False,True,False
