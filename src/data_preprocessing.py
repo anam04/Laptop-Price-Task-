@@ -120,6 +120,11 @@ df.drop(columns=["OpSys"], inplace=True)
 
 print(df.head())
 
+df.drop(columns=["Company"], inplace=True)
+
+
+categorical_cols = ["TypeName", "os", "Gpu_brand", "Cpu_brand"]
+df = pd.get_dummies(df, columns=categorical_cols, drop_first=True)
 
 # Save final cleaned dataset
 df.to_csv("data/train_data.csv", index=False)
